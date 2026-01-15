@@ -1,2 +1,2 @@
-# MotyehMusic.com
+# Motyeh.com
 Website for Music.
