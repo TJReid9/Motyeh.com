@@ -38,6 +38,14 @@ const tracks: Track[] = [
     audioUrl: '/audio/Every Direction.mp3',
     coverArt: '/images/Motyeh Butterfly Nebula.png',
   },
+  {
+    id: '4',
+    title: 'Loosy Strut',
+    artist: 'Motyeh',
+    duration: '4:00',
+    audioUrl: '/audio/Loosy Strut.mp3',
+    coverArt: '/images/Motyeh Butterfly Nebula.png',
+  },
 ];
 
 export default function Home() {
